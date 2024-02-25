@@ -61,7 +61,10 @@ const Home = () => {
               asChild
               className="p-5 relative lg:absolute lg:right-[50%] mx-3 bg-lime-500"
             >
-              <Link href="/cv"> See My Cv</Link>
+              <Link href="https://drive.google.com/file/d/1bgiVE1AQmxVXTP3cjZ9lSM67vX97fTol/view?usp=sharing">
+                {" "}
+                See My Cv
+              </Link>
             </Button>
             <Button
               className={`p-5 bg-lime-500 lg:absolute mx-3 relative lg:left-[50%] ${
